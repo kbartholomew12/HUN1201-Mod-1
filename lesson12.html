@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content="SoftChalk Create 11.04.04" />
+<!-- This file is created by SoftChalk LessonBuilder -->
+<!-- LessonBuilder Version 11.04.04 -->
+<title>Calculating Calories</title>
+<script src="softchalk_manifest.js"></script>
+<script>var passing_score = 70;</script>
+<script>var apply_cert_to_finish = false;</script>
+<script>var lessonID = "1657673016579";</script>
+<script src="sclb_extras/jquery.min.js"></script>
+<script src="sclb_extras/bootstrap.min.js"></script>
+<link href="sclb_extras/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="sclb_extras/bootstrap-accessibility.min.js"></script>
+<link href="sclb_extras/sc-accessibility.css" rel="stylesheet" type="text/css" />
+<link href="sclb_extras/lessonfonts.css" rel="stylesheet" type="text/css" />
+<link href="sclb_extras/print.css" rel="stylesheet" type="text/css" media="print" />
+<script src="sclb_extras/activity_info.js"></script>
+<script src="sclb_extras/lesson_qp.js"></script>
+<script src="sclb_extras/lesson_qp_json.js"></script>
+<script src="sclb_extras/groupvars.js"></script>
+<script>var currentPageNumber = 12;</script>
+<script src="sclb_extras/lesson_data.js"></script>
+<script src="sclb_extras/xml2json.js"></script>
+<script src="sclb_extras/q_functions_ext.js"></script>
+<script src="sclb_extras/q_functions.js"></script>
+<script src="https://www.softchalkcloud.com/assets/softchalk/scripts/scorecenter-9.min.js"></script>
+<link href="https://www.softchalkcloud.com/css/lessonstyle_scorecenter.css" rel="stylesheet" type="text/css" />
+<!-- scorecenter vars -->
+<script src="sclb_extras/ready.js"></script>
+<!-- endscID -->
+<link href="./interactives/static/css/main.css" rel="stylesheet">
+<link href="sclb_extras/lessonstyle.css" rel="stylesheet" type="text/css" />
+<link href="https://softchalkcloud.com/cloudfiles/1/custom.css" rel="stylesheet" type="text/css" />
+<script src="https://softchalkcloud.com/cloudfiles/1/custom.js"></script>
+<script src="https://softchalkcloud.com/js/sccloud_lesson.js"></script>
+<script>
+window.onload = function () {
+const data = 'Calculating Calories';
+const text = document.createTextNode(data);
+setTimeout(() => document.getElementById('title-alert').appendChild(text), 500);
+}
+</script>
+</head>
+
+<body id="page-12" class="sc-animated sc-animation">
+<span id="title-alert" style="height:0;" role="status"></span><a tabindex=1 class="skip-link" href="#content-main">Skip to main content</a>
+<div class="sclocw-placeholder modal fade" id="sc-modal" data-keyboard="false" data-backdrop="static" tabindex="-1" ></div>
+<!-- scorecenter modal -->
+<div class="jumbotron banner" id="page-jumbotron" role="banner">
+<div class="container-fluid" id="page-banner">
+<h1>Basic Nutrition &amp; Government Guidelines</h1>
+<p>Module 1</p>
+</div>
+</div>
+<div class="sc-alert-div"></div>
+<!-- scorecenter alert -->
+<nav class="navbar navbar-default navbar-static-top" aria-label="Page navigation">
+  <div class="container-fluid">
+    <div class="row" id="modern-navbar">
+      <div id="nav-left-col" class="col-xs-3">
+       <button aria-label="Toggle Sidebar" title="Toggle sidebar" type="button" id="sidebar-toggle-btn" class="navbar-nav btn btn-default navbar-btn sidebar-toggle-btn glyphicon glyphicon-menu-hamburger" data-toggle="collapse">&nbsp;<span aria-hidden="true">Contents</span></button>
+</div>
+      <div id="nav-mid-col" class="col-xs-6" role="navigation">
+        <ul class="pager" id="page-counter">
+          <li class="pager-prev"><a title="Previous page" href="lesson11.html" class="glyphicon glyphicon-menu-left"><span class="screen-reader-text">Previous</span></a></li>
+          <li><div class="page-count"></div></li>
+          <li class="pager-next"><a title="Next page" href="lesson13.html" class="glyphicon glyphicon-menu-right"><span class="screen-reader-text">Next</span></a></li>
+        </ul>
+      </div>
+      <div id="nav-right-col" class="col-xs-3">
+       <div id="floatingscore"><span id="navbar-score-span"></span></div>
+      </div>
+    </div>
+  </div>
+</nav>
+<div id="sidebar-left"></div>
+<div id="sidebar-right"></div>
+
+<div class="modal fade calc-size" tabindex="-1" role="dialog" id="generic_modal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <div class="modal-title" style="font-size:2.5em;font-weight:bold;"></div>
+      </div>
+      <div class="modal-body"></div>
+      <div class="modal-footer"></div>
+    </div>
+  </div>
+</div>
+
+<div class="container-main" id="main-container" role="main">
+<div id="sidebar" class="sidebar-menu toggled" role="complementary">
+<div class="panel-group" id="sidebar-title-panel">
+  <div class="panel panel-default" id="panel-title">
+    <div class="panel-body" id="sidebar-title">
+    <h1>Basic Nutrition &amp; Government Guidelines</h1>
+    <p>Module 1</p>
+      <div id="sidebar-score-panel">
+        <div id="sidebar-score"><span id="sidebar-score-span"></span></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel-group" id="sidebar-toc" role="navigation">
+  <div class="panel panel-default" id="panel-toc">
+    <h2><a data-toggle="collapse" data-parent="#accordion" role="button" id="sidebar-toc-title" href="#sidebarTOC">Contents</a></h2>
+    <div id="sidebarTOC" class="panel-collapse collapse">
+      <div class="panel-body">
+        <div class="panel-inner">
+          <ul class="sidebar-nav">
+            <li><a href="index.html">Overview</a></li>
+            <li><a href="lesson.html">Nutrient Basics</a></li>
+            <li><a href="lesson2.html">Choosing Good Nutrition</a></li>
+            <li><a href="lesson3.html">Evidence-based Research</a></li>
+            <li><a href="lesson4.html">Research in Nutrition</a></li>
+            <li><a href="lesson5.html">Research Considerations</a></li>
+            <li><a href="lesson6.html">Identifying Valid Nutrition</a></li>
+            <li><a href="lesson7.html">Nutrition Professionals</a></li>
+            <li><a href="lesson8.html">Nutrition Standards</a></li>
+            <li><a href="lesson9.html">Dietary Reference Intakes</a></li>
+            <li><a href="lesson10.html">MyPlate</a></li>
+            <li><a href="lesson11.html">Processing</a></li>
+            <li class="current-page"><span aria-current="true" class="current-toc-title">Calculating Calories</span>
+              <ul>
+                <li><a href="#headingtaglink_1">Calculating Calories</a></li>
+              </ul>
+            </li>
+            <li><a href="lesson13.html">Label Claims</a></li>
+            <li><a href="lesson14.html">Nutrition Terms</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="panel-group">
+<div class="panel panel-default" id="sidebar-footer-panel" role="contentinfo">
+<div class="panel-body sidebar-footer-panel-body">
+<div id="sidebar-footer-version-tooltip"><a href="javascript:void(0);" data-toggle="tooltip" data-html="true" title="<p>Created with<br />SoftChalk 11.04.04</p>" aria-describedby="sidebar-footer-version-tooltip"></a></div>
+<div id="sidebar-footer-custom-1"></div>
+<div id="sidebar-footer-custom-2"></div>
+<div id="sidebar-footer-copyright">Content &#169;<span class="current-year">2026</span>. Some Rights Reserved.</div>
+<div id="sidebar-footer-date-last-modified">Date last modified: May 5, 2026.</div>
+<div id="sidebar-footer-user-defined"></div>
+<div id="sidebar-footer-standards-link"></div>
+<div id="sidebar-footer-creative-commons-image"><a href="http://creativecommons.org/licenses/by-nc/3.0" target="_blank"><img src="sclb_extras/images/ccimage.png" alt="Creative Commons license Attribution Non-commercial"></a></div>
+<div id="sidebar-footer-custom-3"></div>
+<div id="sidebar-footer-print-all"><a href="lesson_print.html" target="_blank"><span class="glyphicon glyphicon-print"></span>print all</a></div>
+</div>
+</div>
+</div>
+</div>
+<div id="main-col">
+<div id="content-main" class="sceneElement sc-animated sc-animation fadeIn">
+<a href="javascript:void(0);" aria-label="Toggle Sidebar" title="Toggle sidebar" role="button" class="sidebar-toggle-btn glyphicon glyphicon-menu-hamburger"></a>
+<div class="vertical-nav-row" id="vertical-top-nav-row"><a title="Previous page" href="lesson11.html">Previous</a></div>
+<div id="main-content-row">
+<!-- start content -->
+
+
+<div class="headingblock">
+<a id="headingtaglink_1"></a><h1 class="designer rounded20 allhs">Calculating Calories</h1>
+<!-- headingblock end --></div>
+
+<p><strong>Unit Learning Objectives:</strong></p>
+<ul>
+<li>2.3 Differentiate between macro and micronutrients</li>
+<li>2.9 Calculate calories for the macronutrients.</li>
+<li>1.4.3 Identify how the national nutrition guidelines are used to make recommendations and guide individuals toward health.</li>
+</ul>
+<hr>
+<h2 class="designer rounded20 allhs">Macronutrients</h2>
+<p>Macronutrients refer to those nutrients that are needed by the body in largest (macro) amounts. Carbohydrates, proteins and fats are the 3 macronutrients found in the foods that will nourish our body by providing the fuel to perform activities of daily life, exercise, and support growth and development of the body.</p>
+<p>The macronutrients are the only nutrients that provide energy to the body. The energy from macronutrients comes from their chemical bonds. This chemical energy is converted into cellular energy that can be utilized to perform work, allowing cells to conduct their basic functions.</p>
+<p>The three macronutrients make up the sum total of calories that you consume during the day. But, they are not divided equally in thirds. The majority of calories come from carbohydrates followed by fats and protein. Thus, we have recommended ranges to ensure one gets the right amount of each. We call these recommendations the Acceptable Macronutrient Distribution Ranges (AMDR). The AMDR will be discussed in more detail on a page titled &quot;recommended intakes&quot; in each of the macronutrient readings.</p>
+<h3 class="designer rounded20 allhs">Calories</h3>
+<p>Food energy is measured in kilocalories (kcals). A kilocalorie is the amount of energy needed to raise 1 kilogram of water by 1 degree Celsius. In the US, the kilocalorie (kcal) is the most commonly used unit of energy and is often just referred to as a calorie. Strictly speaking, a kcal is 1000 calories. In nutrition, the term calories almost always refers to kcals. Sometimes the kcal is indicated by capitalizing calories as &quot;Calories&quot;, and the two terms are used interchangeably.</p>
+<p>Energy Sources (kcal/g)</p>
+<ul>
+<li>Carbohydrates = 4 calories</li>
+<li>Protein = 4 calories</li>
+<li>Lipids = 9 calories</li>
+</ul>
+<p>Carbohydrates and proteins provide 4 calories per gram, and fats provide 9 calories per gram. Fat is the most energy-dense nutrient, because it provides the most calories per gram (more than double carbohydrates and protein).&nbsp; Although alcohol does provide energy (7 calories per gram), it isn't a nutrient because it isn't required as a source of nourishment to the body.</p>
+<p>If you know the grams of carbohydrate, protein, and fat in a food, you can easily determine how many calories it contains.&nbsp; Here is an example:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14 grams carbohydrate = 14 x 4 = 56 calories</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 grams protein = 3 x 4 = 12 calories</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 grams fat = 5 x 9 = 45 calories</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 56 + 12 + 45 = 113&nbsp;&nbsp;&nbsp; This food contains approximately 113 calories</p>
+<p>&nbsp;</p>
+<h2 class="designer rounded20 allhs">Understanding the AMDR's</h2>
+<p>The Acceptable Macronutrient Distribution Ranges (AMDR's) are the recommended percentage of calories for carbohydrates, protein, and fat. These are set based on looking at years of research on potential health issues with deficient or excessive intake for each macronutrient. In particular, the AMDR's help to look at the ratio of the three macronutrients. These percent recommendations can be confusing to the average person, however.</p>
+<h3 class="designer rounded20 allhs">The current AMDRs and Fat Breakdown</h3>
+<ul>
+<li>Carbohydrate: 45% to 65% of total calories</li>
+<li>Protein: 10% to 35% of total calories</li>
+<li>Fat: 20% to 35% of total calories</li>
+<ul>
+<li>Saturated fat &lt;10%</li>
+<li>Trans fat &lt;1%</li>
+<li>Polyunsaturated fat 5-10%</li>
+<li>Monounsaturated fat 10-15%</li>
+</ul>
+
+</ul>
+<h2 class="designer rounded20 allhs">How to Calculate Percent of Calories:</h2>
+<p>If you know how many grams of a macronutrient you had and how many total calories, you can easily calculate the percentage of calories. It is just simple algebra. The first thing you need to remember is how many calories per gram each macronutrient provides:</p>
+<ul>
+<li>Carbohydrate: 4 calories per gram&nbsp;</li>
+<li>Protein: 4 calories per gram</li>
+<li>Fat: 9 calories per gram&nbsp;</li>
+</ul>
+<p>Note that alcohol provides 7 calories per gram, although it is not a nutrient.</p>
+<h3 class="designer rounded20 allhs">Here is an example:</h3>
+<p>1,743 total calories</p>
+<p>267 grams of carbohydrate (267 x 4 = 1068 calories from carbohydrate)</p>
+<p>72 grams of protein (72 x 4 = 288 calories from protein)</p>
+<p>43 grams of fat (43 x 9 = 387 calories from fat)</p>
+<p>1068 + 288 + 387 = 1,742 calories. You can see that all calories have been accounted for. Except for alcohol, carbohydrate, protein, and fat are the only nutrients that provide calories to the diet.&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<p>Now let's calculate the % of calories for each by dividing calories from the macronutrient by the total calories:</p>
+<p>Carbohydrate: 1,068 / 1,743 = 0.612 (61% of calories)</p>
+<p>Protein: 288 / 1,743 = 0.165 (17% of calories)</p>
+<p>Fat: 387 / 1,743 = 0.222 (22% of calories)</p>
+<p>&nbsp;61% + 17% + 22% = 100%. You can see that all calories have been accounted for.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<h3 class="designer rounded20 allhs">On Food Labels</h3>
+<p>You can do the same thing with individual food products if you have the Nutrition Facts on a food label to look at.&nbsp;However, the ratio of calories in individual foods is not nearly as important as looking at the ratio of macronutrients in your overall diet.</p>
+<p>You can also determine the number of grams consumed from a macronutrient if you know the percent of calories, or determine a gram goal if you know your estimated calorie intake.</p>
+<p>Example:</p>
+<p>Hunter wants to keep his fat intake less than the maximum recommended 35% of calories. He consumes about 2,000 calories per day.</p>
+<p>2,000 x 35% (0.35) = 700 calories from fat</p>
+<p>700 / 9 = 77.7</p>
+<p>Hunter should consume no more than&nbsp;78 grams&nbsp;of fat per day</p>
+<p><!-- inlinemedia29; -->
+<iframe height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-GLCfpWmz8c" allowfullscreen></iframe>
+<!-- end inlinemedia -->
+</p>
+<h2 class="designer rounded20 allhs">How to Understand Percent of Calories:</h2>
+<p>To understand these AMDR recommendations and put your intakes in perspective, it is important to look at your total calorie intake. These percentages look at the ratios between the macronutrients, not necessarily whether or not you are consuming enough (or too much) of each in grams.&nbsp;</p>
+<p>It is possible to consume very few calories or an excessive amount of total calories and still have all of your macronutrients in normal % ranges. Also, all percentages cannot be &quot;too low&quot; or &quot;too high&quot;.&nbsp;</p>
+<p>When the percent of calories for one macronutrient is low, one or both of the other two are likely to be too high.</p>
+<h3 class="designer rounded20 allhs">Example:</h3>
+<p>Here is a good analogy on percentages. Let's go back to a pie chart and look at a pizza.&nbsp;</p>
+<p>Let's assume three co-workers - Shondra, Dan, and Sara - order and split a pizza for lunch. Dan eats half the pizza (50%), while Shondra and Sara split the other half, and each has 25% of the pizza. Is Dan eating too much pizza? Not necessarily &#8211; but he is consuming a lot more of the pizza than Shondra or Sara.&nbsp;&nbsp;</p>
+<p><img src="pizza1.png" width="450" height="262" class="resizable" metadata="obj30" alt="pie chart showing 25% for Shonda, 25% for Sara and 50% for Dan" style="margin-left: 20px; margin-right: 20px; border: 0"></p>
+<p>What if the three co-workers were splitting a small, personal size pizza? Dan would probably still be hungry! Shondra and Sara would be even hungrier. While Dan is getting double the amount of pizza than his co-workers, he is not necessarily consuming too much pizza. The goal would not be to cut the amount of pizza Dan is eating and give more to Shondra and Sara.&nbsp; It would be to increase the size of the pizza.</p>
+<p>On the other hand, what if they were splitting an extra-large pizza? Dan would still be getting twice as much as his co-workers, and it is possible that he might be eating too much, depending on his individualized needs. It is also likely that Shondra and Sara would now be getting enough pizza too (or maybe even too much), despite only getting half of what Dan had.&nbsp;&nbsp;The size of the pizza (pie) matters!</p>
+<p>What if Sara and Shondra got to the pizza before Dan did and consumed 70% of it together? Dan can no longer consume 50% of the pizza since only 30% of the pizza is left.&nbsp;&nbsp;If you change one percent, the other percent(s) will change as well.</p>
+<p>Compare this pie graph example to your overall diet.&nbsp;</p>
+<p>The &quot;size&quot; of your diet matters when looking at the percent of calories from carbohydrates, protein, and fat. Suppose your overall diet is very deficient in calories. In that case, it is likely that you lack proper amounts of all macronutrients needed for good health, even if the percentages are in a normal range. The same can be true if your overall diet is too high in calories. Very simply, the AMDR's are showing how to balance your diet between the three macronutrients.&nbsp;&nbsp;</p>
+<p>Low carbohydrate diets are trendy right now.&nbsp; Can your diet be very low in carbohydrates AND low in fat? Possibly, but only if your overall calorie intake is very low and you are looking at grams. It is guaranteed that if you are not eating many carbohydrates, the percent of calories from fat will exceed the AMDR goals unless you are consuming nothing but low-fat protein sources. Most people don't have time to sit around and &quot;calculate their macros&quot; themselves, as it is very tedious. There are many apps and software to help do that for you.</p>
+<!-- quizgroupstart 21 --><div id="quizgroup-container-21" class="qpq-inline clearboth"></div><!-- quizgroupend -->
+
+<p><!-- inlinemedia31; -->
+<iframe height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="560" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tSAaiRRtUXk" allowfullscreen></iframe>
+<!-- end inlinemedia -->
+</p>
+<p>&nbsp;</p>
+
+<!-- end content -->
+
+<!-- submit goes here -->
+</div>
+<div id="horizontal-bottom-nav-row">
+<div class="pager-wrap" role="navigation">
+<ul class="pager">
+<li class="previous pull-left"><a title="Previous page" href="lesson11.html">Previous</a></li>
+<li class="next pull-right"><a title="Next page" href="lesson13.html">Next</a></li>
+</ul>
+</div>
+</div>
+<div class="vertical-nav-row" id="vertical-bottom-nav-row"><a title="Next page" href="lesson13.html">Next</a></div>
+</div>
+
+</div>
+
+</div>
+<div class="footer-wrap container-fluid">
+<footer id="footer" class="footer" role="contentinfo">
+<div class="row">
+<div class="col-xs-8" id="footer-content">
+<div id="footer-version-tooltip"><a href="javascript:void(0);" data-toggle="tooltip" data-html="true" title="<p>Created with<br />SoftChalk 11.04.04</p>" aria-describedby="footer-version-tooltip"></a></div>
+<div id="footer-custom-1"></div>
+<div id="footer-custom-2"></div>
+<div id="footer-copyright">Content &#169;<span class="current-year">2026</span>. Some Rights Reserved.</div>
+<div id="footer-date-last-modified">Date last modified: May 5, 2026.</div>
+<div id="footer-user-defined"></div>
+<div id="footer-standards-link"></div>
+<div id="footer-creative-commons-image"><a href="http://creativecommons.org/licenses/by-nc/3.0" target="_blank"><img src="sclb_extras/images/ccimage.png" alt="Creative Commons license Attribution Non-commercial"></a></div>
+<div id="footer-custom-3"></div>
+</div>
+
+<div class="col-xs-4" id="footer-printall">
+<div id="footer-print-all"><a href="lesson_print.html" target="_blank"><span class="glyphicon glyphicon-print"></span>print all</a></div>
+</div>
+</div>
+</footer>
+</div>
+<script src="./interactives/static/js/runtime.js"></script><script src="./interactives/static/js/polyfills.js"></script><script src="./interactives/static/js/main.js"></script>
+
+</body>
+</html>

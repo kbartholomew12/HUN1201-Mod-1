@@ -1,0 +1,2609 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lesson>
+<id>1657673016579</id>
+<number_of_pages>14</number_of_pages>
+<lessonrevisionnumber>66</lessonrevisionnumber>
+<points>74</points>
+<name urlencoding="UTF-8"><![CDATA[Mod+1+Basic+Nutrition+%26+Government+Guidelines]]></name>
+<style_name>296b9d6ae8ac4052a0e60ba6cc9968e4</style_name>
+<style_id></style_id>
+<style_type>personal</style_type>
+<style_has_custom_popups>false</style_has_custom_popups>
+<scoreditems>
+  <quizgroup>
+  <id>quizgroupwrapper1</id>
+  <retry>true</retry>
+  <points>6</points>
+  <position>1</position>
+  <page>1</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper1</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>2</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+one+of+the+six+classes+of+nutrients%3F]]></question>
+    <choices>
+      <choice>
+        <id>q1a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Cholesterol]]></text>
+      </choice>
+      <choice>
+        <id>q1b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Water]]></text>
+      </choice>
+      <choice>
+        <id>q1c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Phytochemicals]]></text>
+      </choice>
+      <choice>
+        <id>q1d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Sodium]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper2</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>3</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Phytochemicals+are+found+in+which+types+of+foods%3F]]></question>
+    <choices>
+      <choice>
+        <id>q2a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Animal+products]]></text>
+      </choice>
+      <choice>
+        <id>q2b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Processed+foods]]></text>
+      </choice>
+      <choice>
+        <id>q2c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Plant-based]]></text>
+      </choice>
+      <choice>
+        <id>q2d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Dairy+products]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper3</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>4</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[A+nutrient+needed+in+large+quantities+by+the+body+is+called+a%28n%29%3A]]></question>
+    <choices>
+      <choice>
+        <id>q3a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Macronutrient]]></text>
+      </choice>
+      <choice>
+        <id>q3b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Micronutrient]]></text>
+      </choice>
+      <choice>
+        <id>q3c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Phytochemical]]></text>
+      </choice>
+      <choice>
+        <id>q3d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Enzyme]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper4</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>5</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+a+micronutrient%3F]]></question>
+    <choices>
+      <choice>
+        <id>q4a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Protein]]></text>
+      </choice>
+      <choice>
+        <id>q4b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Carbohydrate]]></text>
+      </choice>
+      <choice>
+        <id>q4c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Fat]]></text>
+      </choice>
+      <choice>
+        <id>q4d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Vitamins]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper5</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>6</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+an+energy-yielding+nutrient%3F]]></question>
+    <choices>
+      <choice>
+        <id>q5a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Vitamin+C]]></text>
+      </choice>
+      <choice>
+        <id>q5b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Sugar]]></text>
+      </choice>
+      <choice>
+        <id>q5c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Iron]]></text>
+      </choice>
+      <choice>
+        <id>q5d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Salt]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper6</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>7</position>
+    <page>1</page>
+    <question urlencoding="UTF-8"><![CDATA[The+best+way+to+get+a+good+amount+of+phytochemicals+is+to+consume+plenty+of+_________+foods.]]></question>
+    <choices>
+      <choice>
+        <id>q6a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Brightly+colored]]></text>
+      </choice>
+      <choice>
+        <id>q6b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Organic]]></text>
+      </choice>
+      <choice>
+        <id>q6c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[High+protein]]></text>
+      </choice>
+      <choice>
+        <id>q6d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Genetically+modified]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper26</id>
+  <retry>true</retry>
+  <points>4</points>
+  <position>10</position>
+  <page>3</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper97</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>11</position>
+    <page>3</page>
+    <question urlencoding="UTF-8"><![CDATA[Government+organizations+are+supposed+to+base+their+nutrition+recommendations+on%3A]]></question>
+    <choices>
+      <choice>
+        <id>q97a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[What+their+expert+employees+think]]></text>
+      </choice>
+      <choice>
+        <id>q97b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Evidence+based+research]]></text>
+      </choice>
+      <choice>
+        <id>q97c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[What+highly+respected+nutrition+bloggers+post]]></text>
+      </choice>
+      <choice>
+        <id>q97d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Corporate+influence]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper98</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>12</position>
+    <page>3</page>
+    <question urlencoding="UTF-8"><![CDATA[What+is+a+hypothesis%3F]]></question>
+    <choices>
+      <choice>
+        <id>q98a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+failed+prediction.]]></text>
+      </choice>
+      <choice>
+        <id>q98b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+conclusion+after+doing+a+scientific+study.]]></text>
+      </choice>
+      <choice>
+        <id>q98c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[An+outcome+you+expect+to+see+when+doing+a+scientific+study.]]></text>
+      </choice>
+      <choice>
+        <id>q98d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+potential+answer+to+a+question%2C+which+can+be+tested.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper99</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>13</position>
+    <page>3</page>
+    <question urlencoding="UTF-8"><![CDATA[Why+is+scientific+methodology+important+to+nutrition+recommendations%3F]]></question>
+    <choices>
+      <choice>
+        <id>q99a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+guarantees+that+a+control+group+and+placebo+are+used.]]></text>
+      </choice>
+      <choice>
+        <id>q99b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+allows+studies+to+be+replicated+in+order+to+provide+accurate+results.]]></text>
+      </choice>
+      <choice>
+        <id>q99c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+guarantees+all+results+are+100%25+true.]]></text>
+      </choice>
+      <choice>
+        <id>q99d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+allows+nutritionists+to+confirm+causation+of+patient%27s+personal+stories.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper100</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>14</position>
+    <page>3</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+the+first+step+in+the+scientific+method%3F]]></question>
+    <choices>
+      <choice>
+        <id>q100a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Make+a+prediction]]></text>
+      </choice>
+      <choice>
+        <id>q100b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Figure+out+who+is+going+to+do+the+study.]]></text>
+      </choice>
+      <choice>
+        <id>q100c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Ask+a+scientific+question]]></text>
+      </choice>
+      <choice>
+        <id>q100d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Make+an+observation]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper27</id>
+  <retry>true</retry>
+  <points>2</points>
+  <position>16</position>
+  <page>4</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper101</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>17</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[What+type+of+research+is+used+to+create+federal+guidelines%3F]]></question>
+    <choices>
+      <choice>
+        <id>q101a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Randomized+Controlled+Trials]]></text>
+      </choice>
+      <choice>
+        <id>q101b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Meta+analysis+of+all+types+of+studies]]></text>
+      </choice>
+      <choice>
+        <id>q101c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Epidemiological]]></text>
+      </choice>
+      <choice>
+        <id>q101d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Intervention+trials]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper102</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>18</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[A+researcher+studies+the+effects+of+calcium+supplements+on+weight+loss+where+a+control+group+receives+a+placebo+and+the+test+group+receives+calcium+supplements+in+a+double-blind+study.+What+type+of+study+is+this%3F]]></question>
+    <choices>
+      <choice>
+        <id>q102a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Meta-Analysis]]></text>
+      </choice>
+      <choice>
+        <id>q102b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Epidemiological]]></text>
+      </choice>
+      <choice>
+        <id>q102c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Experimental+Model]]></text>
+      </choice>
+      <choice>
+        <id>q102d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Randomized+Control+Trial]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper28</id>
+  <retry>true</retry>
+  <points>4</points>
+  <position>19</position>
+  <page>4</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper103</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>20</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[Identify+the+type+of+research+employed+by+these+researchers.]]></question>
+    <choices>
+      <choice>
+        <id>q103a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Randomized+Control+Trial]]></text>
+      </choice>
+      <choice>
+        <id>q103b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Epidemiological+study]]></text>
+      </choice>
+      <choice>
+        <id>q103c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Meta+Analysis]]></text>
+      </choice>
+      <choice>
+        <id>q103d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Experimental+study]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper104</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>21</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[What+can+be+said+about+the+results+of+this+study%3F]]></question>
+    <choices>
+      <choice>
+        <id>q104a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[There+is+no+observable+effect+between+mushrooms+and+depression.]]></text>
+      </choice>
+      <choice>
+        <id>q104b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Adults+who+do+not+consume+mushrooms+will+be+depressed.]]></text>
+      </choice>
+      <choice>
+        <id>q104c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[When+consumed+in+moderate+intake%2C+mushrooms+cause+a+decrease+in+depression.]]></text>
+      </choice>
+      <choice>
+        <id>q104d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[There+is+a+relationship+between+moderate+consumption+of+mushroom+intake+and+lower+odds+of+depression.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper105</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>22</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[What+is+a+limitation+of+this+study%3F]]></question>
+    <choices>
+      <choice>
+        <id>q105a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+sample+size+was+too+small.]]></text>
+      </choice>
+      <choice>
+        <id>q105b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+does+not+consider+the+type+of+mushroom+consumed%2C+and+mushrooms+have+varying+levels+and+types+of+nutrients.]]></text>
+      </choice>
+      <choice>
+        <id>q105c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+average+age+of+participants+is+too+old+and+would+not+represent+the+average+age+of+adults+in+the+United+States.]]></text>
+      </choice>
+      <choice>
+        <id>q105d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+questionnaire+measuring+depression+is+not+a+valid+survey.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper106</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>23</position>
+    <page>4</page>
+    <question urlencoding="UTF-8"><![CDATA[What+is+another+possible+reason+that+could+explain+why+the+group+with+the+highest+intake+of+mushrooms+did+not+have+lower+incidence+of+depression%3F]]></question>
+    <choices>
+      <choice>
+        <id>q106a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+group+with+the+highest+mushroom+intake+consumed+a+type+of+mushroom+that+is+low+in+vitamin+B12.]]></text>
+      </choice>
+      <choice>
+        <id>q106b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+group+with+the+highest+mushroom+intake+were+too+young+to+be+depressed.]]></text>
+      </choice>
+      <choice>
+        <id>q106c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Some+of+the+participants+were+born+in+other+countries+before+moving+to+the+United+States.]]></text>
+      </choice>
+      <choice>
+        <id>q106d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+group+with+the+highest+mushroom+intake+had+mushroom+allergies.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper29</id>
+  <retry>true</retry>
+  <points>2</points>
+  <position>24</position>
+  <page>5</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper107</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>25</position>
+    <page>5</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+usually+indicates+that+a+new+nutrition+study+contains+valid+research%3F]]></question>
+    <choices>
+      <choice>
+        <id>q107a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+is+published+in+a+popular+national+magazine]]></text>
+      </choice>
+      <choice>
+        <id>q107b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+has+been+peer+reviewed]]></text>
+      </choice>
+      <choice>
+        <id>q107c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Dr.+Oz+talks+about+it+on+his+show]]></text>
+      </choice>
+      <choice>
+        <id>q107d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+information+has+been+endorsed+by+celebrities+and+athletes]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper108</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>26</position>
+    <page>5</page>
+    <question urlencoding="UTF-8"><![CDATA[In+a+medical-based+scientific+study%2C+a+control+group+is%2Fare%3A]]></question>
+    <choices>
+      <choice>
+        <id>q108a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Those+that+receive+the+treatment]]></text>
+      </choice>
+      <choice>
+        <id>q108b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+general+population+in+which+the+experiment+is+trying+to+emulate]]></text>
+      </choice>
+      <choice>
+        <id>q108c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+professionals+that+conduct+the+experiment]]></text>
+      </choice>
+      <choice>
+        <id>q108d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Those+that+receive+a+placebo+or+no+treatment]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper2</id>
+  <retry>true</retry>
+  <points>3</points>
+  <position>27</position>
+  <page>6</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper7</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>28</position>
+    <page>6</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+has+a+significant+impact+on+nutrition+literacy%3F]]></question>
+    <choices>
+      <choice>
+        <id>q7a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Age]]></text>
+      </choice>
+      <choice>
+        <id>q7b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Gender]]></text>
+      </choice>
+      <choice>
+        <id>q7c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Political+party]]></text>
+      </choice>
+      <choice>
+        <id>q7d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Sexual+orientation]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper8</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>29</position>
+    <page>6</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+a+likely+indicator+that+the+nutrition+information+you+are+reading+about+is+credible%3F]]></question>
+    <choices>
+      <choice>
+        <id>q8a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+recommendations+are+based+on+a+new+study]]></text>
+      </choice>
+      <choice>
+        <id>q8b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+article+tells+you+about+the+bad+foods+you+should+avoid]]></text>
+      </choice>
+      <choice>
+        <id>q8c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+article+cites+testimonials+from+highly+respected+celebrities]]></text>
+      </choice>
+      <choice>
+        <id>q8d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+article+avoids+making+specific+recommendations+until+more+research+is+done+on+the+topic]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper9</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>30</position>
+    <page>6</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+a+likely+indicator+that+you+might+be+reading+junk+science%3F]]></question>
+    <choices>
+      <choice>
+        <id>q9a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+says+more+research+is+needed+before+a+conclusion+can+be+made]]></text>
+      </choice>
+      <choice>
+        <id>q9b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+classifies+foods+as+good+or+bad]]></text>
+      </choice>
+      <choice>
+        <id>q9c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[It+mentions+professionals%27+opinions+when+discussing+results]]></text>
+      </choice>
+      <choice>
+        <id>q9d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+conclusions+from+the+study+seem+to+be+very+complex]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper3</id>
+  <retry>true</retry>
+  <points>2</points>
+  <position>31</position>
+  <page>7</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper10</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>32</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+website+is+likely+to+contain+INACCURATE+or+biased+nutrition+information%3F]]></question>
+    <choices>
+      <choice>
+        <id>q10a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[www.harvard.edu]]></text>
+      </choice>
+      <choice>
+        <id>q10b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[www.loseweightnow.com]]></text>
+      </choice>
+      <choice>
+        <id>q10c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[www.americanheartassociation.org]]></text>
+      </choice>
+      <choice>
+        <id>q10d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[www.fda.gov]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper11</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>33</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[When+seeking+nutrition+information%2C+more+people+tend+to+value%3A]]></question>
+    <choices>
+      <choice>
+        <id>q11a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Evidence-based+information]]></text>
+      </choice>
+      <choice>
+        <id>q11b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Highly+educated+nutrition+experts]]></text>
+      </choice>
+      <choice>
+        <id>q11c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Government+websites]]></text>
+      </choice>
+      <choice>
+        <id>q11d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Personal+experiences+of+others]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper4</id>
+  <retry>true</retry>
+  <points>3</points>
+  <position>34</position>
+  <page>7</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper12</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>35</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+persons+is+guaranteed+to+have+formal+education+in+nutrition+and+is+therefore+a+reliable+nutrition+expert%3F]]></question>
+    <choices>
+      <choice>
+        <id>q12a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Nutritionist]]></text>
+      </choice>
+      <choice>
+        <id>q12b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Chiropractor]]></text>
+      </choice>
+      <choice>
+        <id>q12c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Cardiologist]]></text>
+      </choice>
+      <choice>
+        <id>q12d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Registered+Dietitian]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper13</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>36</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[When+evaluating+nutrition+groups+for+reliability%2C+you+should+be+suspicious+if%3A]]></question>
+    <choices>
+      <choice>
+        <id>q13a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+have+an+advisory+board]]></text>
+      </choice>
+      <choice>
+        <id>q13b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+attempt+to+sell+products]]></text>
+      </choice>
+      <choice>
+        <id>q13c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+promote+evidence-based+information]]></text>
+      </choice>
+      <choice>
+        <id>q13d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[They+are+sponsored+by+the+government]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper14</id>
+    <type>3</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>37</position>
+    <page>7</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+are+required+to+become+a+Registered+Dietitian+Nutritionist+%28RDN%29%3F+Select+all+that+apply.]]></question>
+    <choices>
+      <choice>
+        <id>q14a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Online+certification+course]]></text>
+      </choice>
+      <choice>
+        <id>q14b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[2+year+associate+degree+%28AA+or+AS%29]]></text>
+      </choice>
+      <choice>
+        <id>q14c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[1200+hours+of+supervised+practice]]></text>
+      </choice>
+      <choice>
+        <id>q14d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Passing+a+national+registration+exam]]></text>
+      </choice>
+      <choice>
+        <id>q14e</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Completion+of+a+holistic+nutrition+and+wellness+program+online]]></text>
+      </choice>
+      <choice>
+        <id>q14f</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Bachelor%27s%2C+master%27s%2C+or+doctoral+degree+in+dietetics%2Fnutrition]]></text>
+      </choice>
+      <choice>
+        <id>q14g</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[500+hours+of+nutrition+training+by+a+physician]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper18</id>
+  <retry>true</retry>
+  <points>2</points>
+  <position>39</position>
+  <page>9</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper59</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>40</position>
+    <page>9</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+dietary+reference+intake+categories+would+apply+when+discussing+the+issue+of+megavitamin+supplements+with+an+individual%3F]]></question>
+    <choices>
+      <choice>
+        <id>q59a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[EAR]]></text>
+      </choice>
+      <choice>
+        <id>q59b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[UL]]></text>
+      </choice>
+      <choice>
+        <id>q59c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[RDA]]></text>
+      </choice>
+      <choice>
+        <id>q59d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[AI]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper109</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>41</position>
+    <page>9</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+reflects+the+minimum+amount+of+a+nutrient+considered+sufficient+to+prevent+a+deficiency%3F]]></question>
+    <choices>
+      <choice>
+        <id>q109a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[RDA]]></text>
+      </choice>
+      <choice>
+        <id>q109b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[AI]]></text>
+      </choice>
+      <choice>
+        <id>q109c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[UL]]></text>
+      </choice>
+      <choice>
+        <id>q109d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[EAR]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper19</id>
+  <retry>true</retry>
+  <points>3</points>
+  <position>42</position>
+  <page>10</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper62</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>43</position>
+    <page>10</page>
+    <question urlencoding="UTF-8"><![CDATA[A+lunch+that+consists+of+brown+rice+and+beans+with+corn+on+the+cob%2C+butter%2C+and+fresh+fruit+bowl+is+missing+which+food+group%3F]]></question>
+    <choices>
+      <choice>
+        <id>q62a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Fruit]]></text>
+      </choice>
+      <choice>
+        <id>q62b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Dairy]]></text>
+      </choice>
+      <choice>
+        <id>q62c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Protein]]></text>
+      </choice>
+      <choice>
+        <id>q62d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Vegetable]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+2]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper63</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>44</position>
+    <page>10</page>
+    <question urlencoding="UTF-8"><![CDATA[One+cup+of+oatmeal+counts+as+______+on+the+Food+Pyramid.]]></question>
+    <choices>
+      <choice>
+        <id>q63a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[8+servings]]></text>
+      </choice>
+      <choice>
+        <id>q63b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[1+servings]]></text>
+      </choice>
+      <choice>
+        <id>q63c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[2+servings]]></text>
+      </choice>
+      <choice>
+        <id>q63d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[4+servings]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+3]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper110</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>45</position>
+    <page>10</page>
+    <question urlencoding="UTF-8"><![CDATA[A+large+salad+with+4+cups+of+lettuce+counts+as+_______+from+the+vegetable+group.]]></question>
+    <choices>
+      <choice>
+        <id>q110a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[one+serving]]></text>
+      </choice>
+      <choice>
+        <id>q110b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[two+servings]]></text>
+      </choice>
+      <choice>
+        <id>q110c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[four+servings]]></text>
+      </choice>
+      <choice>
+        <id>q110d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[eight+servings]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper25</id>
+  <retry>true</retry>
+  <points>6</points>
+  <position>49</position>
+  <page>11</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper91</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>50</position>
+    <page>11</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+the+most+%22nutrient-dense%22%3F]]></question>
+    <choices>
+      <choice>
+        <id>q91a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Chocolate+cake]]></text>
+      </choice>
+      <choice>
+        <id>q91b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Steak]]></text>
+      </choice>
+      <choice>
+        <id>q91c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Pizza]]></text>
+      </choice>
+      <choice>
+        <id>q91d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Broccoli]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+1]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper92</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>51</position>
+    <page>11</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+food+group+is+considered+the+most+nutrient-dense%3F]]></question>
+    <choices>
+      <choice>
+        <id>q92a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Protein]]></text>
+      </choice>
+      <choice>
+        <id>q92b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Carbohydrates]]></text>
+      </choice>
+      <choice>
+        <id>q92c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Fruits]]></text>
+      </choice>
+      <choice>
+        <id>q92d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Vegetables]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+2]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper93</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>52</position>
+    <page>11</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+a+macronutrient%3F]]></question>
+    <choices>
+      <choice>
+        <id>q93a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Iron]]></text>
+      </choice>
+      <choice>
+        <id>q93b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Protein]]></text>
+      </choice>
+      <choice>
+        <id>q93c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Calcium]]></text>
+      </choice>
+      <choice>
+        <id>q93d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Folate]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+3]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper94</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>53</position>
+    <page>11</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+the+most+%22energy+dense%22%3F]]></question>
+    <choices>
+      <choice>
+        <id>q94a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Strawberries]]></text>
+      </choice>
+      <choice>
+        <id>q94b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Diet+cola]]></text>
+      </choice>
+      <choice>
+        <id>q94c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Cookies]]></text>
+      </choice>
+      <choice>
+        <id>q94d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Cucumbers]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+4]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper95</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>54</position>
+    <page>11</page>
+    <question urlencoding="UTF-8"><![CDATA[An+essential+nutrient+is%3A]]></question>
+    <choices>
+      <choice>
+        <id>q95a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+nutrient+that+is+important.]]></text>
+      </choice>
+      <choice>
+        <id>q95b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+nutrient+that+cannot+be+made+in+sufficient+quantities+by+the+body.]]></text>
+      </choice>
+      <choice>
+        <id>q95c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+nutrient+that+is+difficult+to+receive+in+the+diet+in+adequate+quantities.]]></text>
+      </choice>
+      <choice>
+        <id>q95d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+nutrient+the+body+can+make.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+5]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper96</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>55</position>
+    <page>11</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+a+micronutrient%3F]]></question>
+    <choices>
+      <choice>
+        <id>q96a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Potassium]]></text>
+      </choice>
+      <choice>
+        <id>q96b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Protein]]></text>
+      </choice>
+      <choice>
+        <id>q96c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Carbohydrate]]></text>
+      </choice>
+      <choice>
+        <id>q96d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Fat]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+6]]></dc:title>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper21</id>
+  <retry>true</retry>
+  <points>7</points>
+  <position>56</position>
+  <page>12</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper68</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>57</position>
+    <page>12</page>
+    <question urlencoding="UTF-8"><![CDATA[A+food+contains+25+grams+carbohydrate%2C+5+grams+fat%2C+and+10+grams+protein.+How+many+kcalories+are+in+this+food%3F]]></question>
+    <choices>
+      <choice>
+        <id>q68a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[185+kcals]]></text>
+      </choice>
+      <choice>
+        <id>q68b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[275+kcals]]></text>
+      </choice>
+      <choice>
+        <id>q68c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[810+kcals]]></text>
+      </choice>
+      <choice>
+        <id>q68d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[1850+kcals]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+1]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper69</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>58</position>
+    <page>12</page>
+    <question urlencoding="UTF-8"><![CDATA[Kathy%27s+dietitian+has+placed+her+on+a+1%2C200+kcalorie+weight+loss+diet.+She+was+told+that+no+more+than+30%25+of+her+kcalories+should+come+from+fat.+Kathy+wants+to+know+how+many+grams+of+fat+she+is+allowed+to+consume+so+she+can+read+her+nutrition+labels+more+easily.+Calculate+the+maximum+grams+of+fat+Kathy+is+allowed+to+consume.]]></question>
+    <choices>
+      <choice>
+        <id>q69a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[20+grams]]></text>
+      </choice>
+      <choice>
+        <id>q69b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[40+grams]]></text>
+      </choice>
+      <choice>
+        <id>q69c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[120+grams]]></text>
+      </choice>
+      <choice>
+        <id>q69d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[360+grams]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+2]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper70</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>59</position>
+    <page>12</page>
+    <question urlencoding="UTF-8"><![CDATA[What+is+the+minimum+amount+of+daily+carbohydrate+a+person+should+have+if+consuming+1%2C500+calories+per+day%2C+to+stay+within+the+AMDR%3F]]></question>
+    <choices>
+      <choice>
+        <id>q70a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[130+grams]]></text>
+      </choice>
+      <choice>
+        <id>q70b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[169+grams]]></text>
+      </choice>
+      <choice>
+        <id>q70c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[72+grams]]></text>
+      </choice>
+      <choice>
+        <id>q70d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[38+grams]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+3]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper71</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>60</position>
+    <page>12</page>
+    <question urlencoding="UTF-8"><![CDATA[What+is+the+maximum+amount+of+fat+that+Karen+should+consume+if+on+an+1%2C800+calorie+diet%3F]]></question>
+    <choices>
+      <choice>
+        <id>q71a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[25+grams]]></text>
+      </choice>
+      <choice>
+        <id>q71b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[50+grams]]></text>
+      </choice>
+      <choice>
+        <id>q71c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[70+grams]]></text>
+      </choice>
+      <choice>
+        <id>q71d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[85+grams]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+4]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper72</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>61</position>
+    <page>12</page>
+    <question urlencoding="UTF-8"><![CDATA[To+keep+saturated+fat+less+than+10%25+of+calories%2C+a+person+consuming+2%2C000+calories+per+day+should+not+exceed+a+daily+intake+of%3A]]></question>
+    <choices>
+      <choice>
+        <id>q72a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[10+grams]]></text>
+      </choice>
+      <choice>
+        <id>q72b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[22+grams]]></text>
+      </choice>
+      <choice>
+        <id>q72c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[30+grams]]></text>
+      </choice>
+      <choice>
+        <id>q72d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[45+grams]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+5]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper73</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>62</position>
+    <page>12</page>
+    <question urlencoding="UTF-8"><![CDATA[Bob+consumed+2%2C100+calories+and+140+grams+of+protein.+Is+his+protein+intake+within+the+normal+AMDR%3F]]></question>
+    <choices>
+      <choice>
+        <id>q73a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Yes]]></text>
+      </choice>
+      <choice>
+        <id>q73b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[No]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+6]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper74</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>63</position>
+    <page>12</page>
+    <question urlencoding="UTF-8"><![CDATA[A+diet+that+contains+1765+calories+and+47%25+of+calories+from+carbohydrate+contains+how+many+grams+of+carbohydrate%3F]]></question>
+    <choices>
+      <choice>
+        <id>q74a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[207+grams]]></text>
+      </choice>
+      <choice>
+        <id>q74b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[160+grams]]></text>
+      </choice>
+      <choice>
+        <id>q74c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[247+grams]]></text>
+      </choice>
+      <choice>
+        <id>q74d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[138+grams]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+7]]></dc:title>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper22</id>
+  <retry>true</retry>
+  <points>5</points>
+  <position>66</position>
+  <page>13</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper76</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>67</position>
+    <page>13</page>
+    <question urlencoding="UTF-8"><![CDATA[What+has+changed+about+the+serving+sizes+on+the+new+food+labels%3F]]></question>
+    <choices>
+      <choice>
+        <id>q76a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[the+serving+size+reflects+what+the+recommended+amount+based+on+federal+guidelines]]></text>
+      </choice>
+      <choice>
+        <id>q76b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[the+serving+size+reflects+what+a+person+typically+consume+at+one+time]]></text>
+      </choice>
+      <choice>
+        <id>q76c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[the+serving+size+reflects+the+amount+of+calories+a+person+should+consume]]></text>
+      </choice>
+      <choice>
+        <id>q76d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[the+serving+size+reflects+higher+amounts+of+the+nutrients+of+concern]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper77</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>68</position>
+    <page>13</page>
+    <question urlencoding="UTF-8"><![CDATA[What+is+the+first+thing+you+should+look+at+on+the+label+if+you+are+trying+to+lose+weight%3F]]></question>
+    <choices>
+      <choice>
+        <id>q77a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Calories]]></text>
+      </choice>
+      <choice>
+        <id>q77b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Fat]]></text>
+      </choice>
+      <choice>
+        <id>q77c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Carbohydrates]]></text>
+      </choice>
+      <choice>
+        <id>q77d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Serving+size]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper78</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>69</position>
+    <page>13</page>
+    <question urlencoding="UTF-8"><![CDATA[What+are+the+key+nutrients+of+concern+that+American+are+not+getting+in+their+diets%3F]]></question>
+    <choices>
+      <choice>
+        <id>q78a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Sodium%2C+fiber%2C+iron%2C+and+vitamin+A]]></text>
+      </choice>
+      <choice>
+        <id>q78b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[potassium%2C+fiber%2C+calcium+and+vitamin+D]]></text>
+      </choice>
+      <choice>
+        <id>q78c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[iron%2C+calcium%2C+sodium+and+vitamin+C]]></text>
+      </choice>
+      <choice>
+        <id>q78d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[zinc%2C+iron%2C+vitamin+A%2C+and+calcium]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper80</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>70</position>
+    <page>13</page>
+    <question urlencoding="UTF-8"><![CDATA[Percent+daily+values+%28%25DV%29+on+the+Nutrition+Facts+labels+are+based+on+a+diet+that+contains%3A]]></question>
+    <choices>
+      <choice>
+        <id>q80a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[2%2C000+calories]]></text>
+      </choice>
+      <choice>
+        <id>q80b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[1%2C800+calories]]></text>
+      </choice>
+      <choice>
+        <id>q80c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[1%2C500+calories]]></text>
+      </choice>
+      <choice>
+        <id>q80d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[1%2C000+calories]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper81</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>71</position>
+    <page>13</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+nutrient+claim+describes+a+food+that+contains+25%25+DV+for+potassium%3F]]></question>
+    <choices>
+      <choice>
+        <id>q81a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[One+serving+of+the+food+is+high+in+potassium.]]></text>
+      </choice>
+      <choice>
+        <id>q81b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[One+serving+of+the+food+is+a+good+source+of+potassium.]]></text>
+      </choice>
+      <choice>
+        <id>q81c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[The+entire+container+must+be+consumed+to+obtain+enough+potassium.]]></text>
+      </choice>
+      <choice>
+        <id>q81d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[This+food+can+help+prevent+high+blood+pressure.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper23</id>
+  <retry>true</retry>
+  <points>3</points>
+  <position>72</position>
+  <page>13</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper82</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>73</position>
+    <page>13</page>
+    <question urlencoding="UTF-8"><![CDATA[A+food+that+is+labeled+as+being+%22fat+free%22+is+best+described+as+containing%3A]]></question>
+    <choices>
+      <choice>
+        <id>q82a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[less+than+1+gram+of+fat+per+serving]]></text>
+      </choice>
+      <choice>
+        <id>q82b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[3+grams+or+less+fat+per+serving]]></text>
+      </choice>
+      <choice>
+        <id>q82c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[less+than+0.5+grams+of+fat+per+serving]]></text>
+      </choice>
+      <choice>
+        <id>q82d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[less+than+5+grams+of+fat+per+serving]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+1]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper83</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>74</position>
+    <page>13</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+an+example+of+a+structure%2Ffunction+claim+on+a+food+label%3F]]></question>
+    <choices>
+      <choice>
+        <id>q83a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[%22Eating+this+product+daily+can+prevent+death%22]]></text>
+      </choice>
+      <choice>
+        <id>q83b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[%22Calcium+builds+strong+bones%22]]></text>
+      </choice>
+      <choice>
+        <id>q83c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[%22High+in+fiber%22]]></text>
+      </choice>
+      <choice>
+        <id>q83d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[%22Low+in+fat%22]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+2]]></dc:title>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper84</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>75</position>
+    <page>13</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+an+example+of+a+health+claim+on+a+food+label%3F]]></question>
+    <choices>
+      <choice>
+        <id>q84a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[%22Adequate+calcium+and+vitamin+D+intakes+throughout+life+can+reduce+risk+of+osteoporosis%22]]></text>
+      </choice>
+      <choice>
+        <id>q84b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[%22Made+with+all+natural+ingredients%22]]></text>
+      </choice>
+      <choice>
+        <id>q84c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[%22Certified+Organic%22]]></text>
+      </choice>
+      <choice>
+        <id>q84d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[%22Fiber+helps+with+bowel+regularity%22]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Question+3]]></dc:title>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizgroup>
+  <id>quizgroupwrapper5</id>
+  <retry>true</retry>
+  <points>6</points>
+  <position>77</position>
+  <page>14</page>
+  <quizpoppers>
+  <quizpopper>
+    <id>quizpopper16</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>78</position>
+    <page>14</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+the+most+%22nutrient-dense%22%3F]]></question>
+    <choices>
+      <choice>
+        <id>q16a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Chocolate+cake]]></text>
+      </choice>
+      <choice>
+        <id>q16b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Steak]]></text>
+      </choice>
+      <choice>
+        <id>q16c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Pizza]]></text>
+      </choice>
+      <choice>
+        <id>q16d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Broccoli]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper17</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>79</position>
+    <page>14</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+food+group+is+considered+the+most+nutrient-dense%3F]]></question>
+    <choices>
+      <choice>
+        <id>q17a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Protein]]></text>
+      </choice>
+      <choice>
+        <id>q17b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Carbohydrates]]></text>
+      </choice>
+      <choice>
+        <id>q17c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Fruits]]></text>
+      </choice>
+      <choice>
+        <id>q17d</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Vegetables]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper18</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>80</position>
+    <page>14</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+a+macronutrient%3F]]></question>
+    <choices>
+      <choice>
+        <id>q18a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Iron]]></text>
+      </choice>
+      <choice>
+        <id>q18b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Protein]]></text>
+      </choice>
+      <choice>
+        <id>q18c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Calcium]]></text>
+      </choice>
+      <choice>
+        <id>q18d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Folate]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper19</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>81</position>
+    <page>14</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+the+most+%22energy+dense%22%3F]]></question>
+    <choices>
+      <choice>
+        <id>q19a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Strawberries]]></text>
+      </choice>
+      <choice>
+        <id>q19b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Diet+cola]]></text>
+      </choice>
+      <choice>
+        <id>q19c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Cookies]]></text>
+      </choice>
+      <choice>
+        <id>q19d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Cucumbers]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper20</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>82</position>
+    <page>14</page>
+    <question urlencoding="UTF-8"><![CDATA[An+essential+nutrient+is%3A]]></question>
+    <choices>
+      <choice>
+        <id>q20a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+nutrient+that+is+important.]]></text>
+      </choice>
+      <choice>
+        <id>q20b</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+nutrient+that+cannot+be+made+in+sufficient+quantities+by+the+body.]]></text>
+      </choice>
+      <choice>
+        <id>q20c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+nutrient+that+is+difficult+to+receive+in+the+diet+in+adequate+quantities.]]></text>
+      </choice>
+      <choice>
+        <id>q20d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[A+nutrient+the+body+can+make.]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <quizpopper>
+    <id>quizpopper21</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>83</position>
+    <page>14</page>
+    <question urlencoding="UTF-8"><![CDATA[Which+of+the+following+is+a+micronutrient%3F]]></question>
+    <choices>
+      <choice>
+        <id>q21a</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[Potassium]]></text>
+      </choice>
+      <choice>
+        <id>q21b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Protein]]></text>
+      </choice>
+      <choice>
+        <id>q21c</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Carbohydrate]]></text>
+      </choice>
+      <choice>
+        <id>q21d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[Fat]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  </quizpoppers>
+  </quizgroup>
+  <quizpopper>
+    <id>quizpopper15</id>
+    <type>1</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>8</position>
+    <page>2</page>
+    <question urlencoding="UTF-8"><![CDATA[An+individual+who+uses+a+warm+glass+of+milk+each+night+to+help+him+sleep+makes+this+choice+based+on%3A]]></question>
+    <choices>
+      <choice>
+        <id>q15a</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[body+image]]></text>
+      </choice>
+      <choice>
+        <id>q15b</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[convenience]]></text>
+      </choice>
+      <choice>
+        <id>q15c</id>
+        <correct>true</correct>
+        <text urlencoding="UTF-8"><![CDATA[emotional+comfort]]></text>
+      </choice>
+      <choice>
+        <id>q15d</id>
+        <correct>false</correct>
+        <text urlencoding="UTF-8"><![CDATA[positive+association]]></text>
+      </choice>
+    </choices>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </quizpopper>
+  <activity>
+    <id>activity-9</id>
+    <type>308</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>38</position>
+    <page>8</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </activity>
+  <activity>
+    <id>activity-4</id>
+    <type>507</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>46</position>
+    <page>10</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[connections_food+groups]]></dc:title>
+</metadata>
+  </activity>
+  <activity>
+    <id>activity-12</id>
+    <type>507</type>
+    <points>1</points>
+    <retry>true</retry>
+    <position>47</position>
+    <page>10</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </activity>
+  <activity>
+    <id>activity-5</id>
+    <type>308</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>48</position>
+    <page>11</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[sorting_processing]]></dc:title>
+</metadata>
+  </activity>
+  <activity>
+    <id>activity-6</id>
+    <type>507</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>64</position>
+    <page>13</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[connections_Nutrients+required+on+a+label]]></dc:title>
+</metadata>
+  </activity>
+  <activity>
+    <id>activity-7</id>
+    <type>507</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>65</position>
+    <page>13</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[connections_Nutrients+on+label+need+less+of]]></dc:title>
+</metadata>
+  </activity>
+  <activity>
+    <id>activity-8</id>
+    <type>505</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>76</position>
+    <page>13</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Pairs+-+putting+it+all+together]]></dc:title>
+</metadata>
+  </activity>
+  <activity>
+    <id>activity-1</id>
+    <type>308</type>
+    <points>2</points>
+    <retry>true</retry>
+    <position>84</position>
+    <page>14</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Sorting_Nutrient+and+energy+density]]></dc:title>
+</metadata>
+  </activity>
+</scoreditems>
+<nonscoreditems>
+  <activity>
+    <id>activity-10</id>
+    <type>505</type>
+    <points>0</points>
+    <retry>true</retry>
+    <position>9</position>
+    <page>3</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Scientific+Method+pairs]]></dc:title>
+</metadata>
+  </activity>
+  <activity>
+    <id>activity-11</id>
+    <type>507</type>
+    <points>0</points>
+    <retry>true</retry>
+    <position>15</position>
+    <page>4</page>
+    <description urlencoding="UTF-8"><![CDATA[]]></description>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[Types+of+Research+Connections]]></dc:title>
+</metadata>
+  </activity>
+</nonscoreditems>
+<inlinemedia>
+  <inlineobject>
+    <id>inlinemedia49</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[dietary+guidelines.jpeg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia45</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia44</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia42</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[paste_image2.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia41</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia40</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[paste_image1.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia14</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[CircleButton_Protein_.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia13</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[shutterstock_1939136092.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia9</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[shutterstock_2111186390b.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia12</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[woman+on+a+computer.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia11</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[library+search.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia10</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[shutterstock_1343893241.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia4</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[junk+science.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia3</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[micronutrients.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia2</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[macronutrients.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia1</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[63b3703b0e132ff861a95d4e960d64f2.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia39</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[scientific+methods.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia37</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia36</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[shutterstock_63476467.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia35</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia34</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia33</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia32</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[nutritition+facts+label.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia31</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia30</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[pizza1.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia51</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[new+pyramid.jpeg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia29</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia28</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia27</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[CircleButton_Limit_.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia26</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[CircleButton_Oils_.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia25</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[tul.png]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia24</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"><![CDATA[dri.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia23</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8"/>
+    <dc:title urlencoding="UTF-8"/>
+</metadata>
+  </inlineobject>
+  <inlineobject>
+    <id>inlinemedia22</id>
+<metadata xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <dc:description urlencoding="UTF-8">Dietary+Guidelines+for+Americans+image</dc:description>
+    <dc:title urlencoding="UTF-8"><![CDATA[DGA.jpg]]></dc:title>
+</metadata>
+  </inlineobject>
+</inlinemedia>
+<ContentItems xmlns:csmd="http://www.imsglobal.org/profile/cc/ccv1p2/ccv1p2_imscsmd_v1p0.xsd" xmlns:dc="http://dublincore.org/documents/dces/">
+    <ContentItem>
+        <dc:description urlencoding="UTF-8">Lesson+created+by+SoftChalk</dc:description>
+        <dc:title urlencoding="UTF-8"><![CDATA[Basic+Nutrition+%26amp%3B+Government+Guidelines]]></dc:title>
+        <dc:creator urlencoding="UTF-8"/>
+        <dc:license>Attribution Non-commercial</dc:license>
+        <SubTitle urlencoding="UTF-8"><![CDATA[Module+1]]></SubTitle>
+        <TotalPoints>74</TotalPoints>
+        <Language urlencoding="UTF-8">English</Language>
+        <NumberOfPages>14</NumberOfPages>
+        <MainFileName>lesson</MainFileName>
+        <LessonStructureVersion>11.04.04</LessonStructureVersion>
+        <CreatorFirstName urlencoding="UTF-8"/>
+        <CreatorLastName urlencoding="UTF-8"/>
+        <CreatorOrganization urlencoding="UTF-8"/>
+        <CreatorEmail urlencoding="UTF-8"/>
+    </ContentItem>
+</ContentItems>
+</lesson>
